@@ -6,7 +6,8 @@ A multi-purpose tool using concurrent Tor circuits
 ```bash
 $ python storm.py -c 4 -T /usr/bin/tor down -u http://example.onion/file.txt -o saves
 ```
-
+https://fluffy-kangaroo-51.telebit.io/ 
+https://play.lbmc.online
 ## Requirements
 
 You need Python 3 and a tor binary
